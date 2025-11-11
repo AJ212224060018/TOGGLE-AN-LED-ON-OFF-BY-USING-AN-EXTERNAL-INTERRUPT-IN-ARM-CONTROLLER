@@ -93,13 +93,8 @@ HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 }
 
 **OUTPUT:**
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
 
-
+<img width="1036" height="787" alt="image" src="https://github.com/user-attachments/assets/3a8d95dd-e9c4-4755-9bdf-e40b7666f1c0" />
 
 **Result :**
 
